@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/thotranexe/Flixster2/blob/main/walkthrough.gif' title='Video Walkthrough' width='30%' hieght='30%'[ alt='Video Walkthrough' />
+<img src='https://github.com/thotranexe/Flixster2/blob/main/walkthrough.gif' title='Video Walkthrough' width='30%' hieght='30%' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Android Studio Recorder, webm to gif online converter
