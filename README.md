@@ -41,7 +41,7 @@ GIF created with Android Studio Recorder, webm to gif online converter
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+For the three new peices of info, i provided the vote average, the release date, and the overwiew of the movie. I wanted to add the genre tags but figured it may to too complex, since tmdb uses its own id tags that I would have to covert. Serialization definitely made parsing JSON easier.
 
 ## License
 
